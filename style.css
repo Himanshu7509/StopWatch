@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.heading{
+    font-size: 54px;
+}
+
+.time{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.time-detail{
+    display: flex;
+}
+
+.Btn{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+}
